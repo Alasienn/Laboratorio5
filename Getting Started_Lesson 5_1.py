@@ -29,5 +29,3 @@ def rebalance(context, data):
     # Execute rebalance logic
     log.info(context.weekly_message)
     
-SyntaxError: multiple statements found while compiling a single statement
->>> 
